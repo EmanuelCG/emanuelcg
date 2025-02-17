@@ -19,12 +19,11 @@ ofrecer soluciones web personalizadas y de alto rendimiento.
 
 ## Tecnologías conocidas 🧑‍💻 :
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,tailwind,jquery,react,react,redux,mysql,postgres,mongodb,firebase,postman,nginx,aws,vscode)](https://skillicons.dev)
-
-<br>
-
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
-
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,ts,html,css,threejs,tailwind,jquery,react,redux,django,mysql,postgres,mongodb,firebase,postman,git,nginx,aws,docker,vscode,npm,vite" />
+  </a>
+</p>
 
 <br>
 
@@ -33,7 +32,8 @@ ofrecer soluciones web personalizadas y de alto rendimiento.
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emanuelcg&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![emanuelcg GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelcg&theme=algolia)](https://github.com/emanuelcg/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcg&theme=algolia)](https://github.com/emanuelcg/github-readme-stats)[![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emanuelcg&theme=algolia)](https://github.com/emanuelcg/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emanuelcg&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![emanuelcg GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelcg&theme=algolia)](https://github.com/emanuelcg/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcg&theme=algolia)](https://github.com/emanuelcg/github-readme-stats)[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=emanuelcg&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 
