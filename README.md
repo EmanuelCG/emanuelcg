@@ -32,7 +32,7 @@ ofrecer soluciones web personalizadas y de alto rendimiento.
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emanuelcg&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![emanuelcg GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelcg&theme=algolia)](https://github.com/emanuelcg/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcg&theme=algolia)](https://github.com/emanuelcg/github-readme-stats)[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=emanuelcg&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emanuelcg&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcg&theme=algolia)](https://github.com/emanuelcg/github-readme-stats)
 
 
 <br>
