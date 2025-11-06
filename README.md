@@ -6,7 +6,7 @@
 
 Soy un desarrollador con experiencia en la creación de aplicaciones web modernas y
 escalables. Mi enfoque se centra en el desarrollo tanto del back-end con experiencia en front-end, utilizando
-tecnologías claves. Tengo una gran pasión por ofrecer soluciones web personalizadas y de alto rendimiento.
+tecnologías claves. Tengo una gran pasión por ofrecer soluciones personalizadas y de alto rendimiento.
 
 ![GitHub followers](https://img.shields.io/github/followers/emanuelcg?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/emanuelcg?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=emanuelcg.repoName)
 ## Sobre mi :
