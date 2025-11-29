@@ -1,7 +1,7 @@
 <div align="center" width="50" style="border-radius: 50px; overflow:hidden;">
     <a href="https://emanuelcotrina.dev" target="__blank">emanuelcotrina.dev</a>
 </div>
-<h1 align="center">Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Emanuel Cotrina</h1>
+<h1 align="center">Emanuel Cotrina</h1>
 <br>
 
 Soy un desarrollador con experiencia en la creación de aplicaciones web modernas y
