@@ -18,14 +18,14 @@ tecnologías claves. Tengo una gran pasión por ofrecer soluciones personalizada
 ### Backend & Frameworks
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,spring,django,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,py,spring,django,nodejs,prisma" />
   </a>
 </p>
 
 ### Frontend
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind" />
   </a>
 </p>
 
